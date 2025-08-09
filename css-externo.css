@@ -1,0 +1,35 @@
+    p {
+        text-indent: 1.5rem;
+    }
+    h1, h2{
+        text-decoration: underline;        
+    }
+    body {
+        background-color: #e4e4e4;
+        font-family: Arial, sans-serif;
+    }
+    a:hover {
+        color: #ff0000;
+    }
+    a:link {
+        color: #7073E6;
+    }
+    #idlegal {
+        display: block;
+        margin: auto;
+    }
+    #titulo2 {
+        text-align: center;
+        color: #333;
+    }
+    #titulo {
+        text-align: center;
+        color: #333;
+    }
+    table {
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 2px solid black;
+    }
